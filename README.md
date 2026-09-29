@@ -1,6 +1,6 @@
-# Hi, I'm Spencer
+# Welcom to my Github
 
-Mechanical engineering grad student at UCCS, working in the Advanced Manufacturing Laboratory. I use Bayesian optimization to speed up materials development, and I build self-hosted tools in my spare time.
+I'm a mechanical engineering grad student at UCCS, working in the Advanced Manufacturing Laboratory. I use Bayesian optimization to speed up materials development, and I enjoy managing my homelab, exploring networking, making fun side projects, and learning to use modern AI tooling. 
 
 ## What I'm working on
 
