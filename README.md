@@ -1,4 +1,4 @@
-# Welcom to my Github
+# Welcome to my Github
 
 I'm a mechanical engineering grad student at UCCS, working in the Advanced Manufacturing Laboratory. I use Bayesian optimization to speed up materials development, and I enjoy managing my homelab, exploring networking, making fun side projects, and learning to use modern AI tooling. 
 
